@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://apps.obuvstonozka.eu/sitemap.xml
