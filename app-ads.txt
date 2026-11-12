@@ -160,3 +160,6 @@ thunder-monetize.com, 2158729563, RESELLER
 openx.com, 562174952, RESELLER, 6a698e2ec38604c6
 video.unrulymedia.com, 201313863, RESELLER
 opera.com, pub6148735850944, RESELLER, 55a0c5fd61378de3
+monetrix.ai, 10761, RESELLER
+playdigo.com, 1965, RESELLER
+start.io, 131192070, RESELLER
