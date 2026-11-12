@@ -1,0 +1,122 @@
+{
+  "en": [
+    "Optional analytics",
+    "With consent, Google Analytics measures preview opens, starts, finishes and clicks to Google Play. Google receives usage/device data and your IP address and uses analytics cookies (up to 2 hours). No ad personalisation. You can play without agreeing. Your choice is remembered in this tab.",
+    "I am 18 or older and agree to this optional measurement.",
+    "Allow analytics",
+    "Continue without analytics",
+    "Withdraw consent",
+    "Analytics on from consent onward. Earlier actions are not added.",
+    "Analytics off. Playing and downloads work normally."
+  ],
+  "sk": [
+    "Dobrovoľné meranie",
+    "Po súhlase Google Analytics meria otvorenie ukážky, začiatok, dokončenie a klik na Google Play. Google dostane údaje o používaní, zariadení a IP adresu a používa analytické cookies (najviac 2 hodiny). Bez personalizácie reklám. Hrať môžeš aj bez súhlasu. Voľba sa pamätá v tejto karte.",
+    "Mám aspoň 18 rokov a súhlasím s týmto dobrovoľným meraním.",
+    "Povoliť meranie",
+    "Pokračovať bez merania",
+    "Odvolať súhlas",
+    "Meranie je zapnuté od súhlasu. Staršie akcie sa nedopĺňajú.",
+    "Meranie je vypnuté. Hranie aj stiahnutie fungujú normálne."
+  ],
+  "cs": [
+    "Dobrovolné měření",
+    "Po souhlasu Google Analytics měří otevření ukázky, začátek, dokončení a kliknutí na Google Play. Google obdrží údaje o používání, zařízení a IP adresu a používá analytické cookies (nejvýše 2 hodiny). Bez personalizace reklam. Hrát lze bez souhlasu. Volba se pamatuje v této kartě.",
+    "Je mi alespoň 18 let a souhlasím s tímto dobrovolným měřením.",
+    "Povolit měření",
+    "Pokračovat bez měření",
+    "Odvolat souhlas",
+    "Měření běží od souhlasu. Starší akce se nedoplňují.",
+    "Měření je vypnuté. Hraní i stažení funguje normálně."
+  ],
+  "de": [
+    "Optionale Analyse",
+    "Mit Zustimmung misst Google Analytics Aufrufe, Starts, Abschlüsse und Klicks zu Google Play. Google erhält Nutzungs-/Gerätedaten und deine IP-Adresse und verwendet Analyse-Cookies (bis zu 2 Stunden). Keine Werbepersonalisierung. Spielen ist ohne Zustimmung möglich. Die Auswahl gilt in diesem Tab.",
+    "Ich bin mindestens 18 und stimme dieser optionalen Analyse zu.",
+    "Analyse erlauben",
+    "Ohne Analyse fortfahren",
+    "Zustimmung widerrufen",
+    "Analyse ab Zustimmung aktiv. Frühere Aktionen werden nicht ergänzt.",
+    "Analyse aus. Spielen und Herunterladen bleiben möglich."
+  ],
+  "ja": [
+    "任意の利用状況分析",
+    "同意後、Google Analyticsが体験版の表示、開始、終了、Google Playへのクリックを測定します。Googleは利用状況・端末情報とIPアドレスを受け取り、分析用Cookieを使用します（最大2時間）。広告のパーソナライズは行いません。同意なしでも遊べます。選択はこのタブ内で記憶されます。",
+    "私は18歳以上で、この任意の分析に同意します。",
+    "分析を許可",
+    "分析なしで続ける",
+    "同意を撤回",
+    "同意後から分析が有効です。以前の操作は送信しません。",
+    "分析は無効です。プレイとダウンロードは利用できます。"
+  ],
+  "tr": [
+    "İsteğe bağlı analiz",
+    "Onaydan sonra Google Analytics önizleme açılışlarını, başlangıçları, bitişleri ve Google Play tıklamalarını ölçer. Google kullanım/cihaz verilerini ve IP adresini alır; analiz çerezleri kullanır (en çok 2 saat). Reklam kişiselleştirme yoktur. Onay vermeden oynayabilirsin. Seçim bu sekmede hatırlanır.",
+    "18 yaşında veya daha büyüğüm ve bu isteğe bağlı analizi kabul ediyorum.",
+    "Analize izin ver",
+    "Analiz olmadan devam et",
+    "Onayı geri çek",
+    "Analiz onaydan itibaren açık. Önceki işlemler eklenmez.",
+    "Analiz kapalı. Oyun ve indirme normal çalışır."
+  ],
+  "pl": [
+    "Opcjonalna analityka",
+    "Po zgodzie Google Analytics mierzy otwarcia, starty, zakończenia i kliknięcia do Google Play. Google otrzymuje dane użycia/urządzenia i adres IP oraz używa plików cookie analitycznych (do 2 godzin). Bez personalizacji reklam. Możesz grać bez zgody. Wybór jest pamiętany w tej karcie.",
+    "Mam co najmniej 18 lat i zgadzam się na tę opcjonalną analitykę.",
+    "Zezwól na analitykę",
+    "Kontynuuj bez analityki",
+    "Wycofaj zgodę",
+    "Analityka działa od zgody. Wcześniejsze działania nie są dodawane.",
+    "Analityka wyłączona. Gra i pobieranie działają normalnie."
+  ],
+  "hu": [
+    "Választható elemzés",
+    "Hozzájárulás után a Google Analytics méri a megnyitást, kezdést, befejezést és a Google Playre kattintást. A Google használati/eszközadatokat és IP-címet kap, elemzési sütiket használ (legfeljebb 2 óráig). Nincs hirdetésszemélyre szabás. Hozzájárulás nélkül is játszhatsz. A választás ebben a lapon marad meg.",
+    "Elmúltam 18 éves, és hozzájárulok ehhez a választható elemzéshez.",
+    "Elemzés engedélyezése",
+    "Folytatás elemzés nélkül",
+    "Hozzájárulás visszavonása",
+    "Elemzés a hozzájárulástól. Korábbi műveleteket nem pótolunk.",
+    "Elemzés kikapcsolva. A játék és letöltés működik."
+  ],
+  "fr": [
+    "Analyse facultative",
+    "Après accord, Google Analytics mesure les ouvertures, débuts, fins et clics vers Google Play. Google reçoit des données d’utilisation/appareil et votre adresse IP, et utilise des cookies analytiques (2 heures maximum). Aucune personnalisation publicitaire. Vous pouvez jouer sans accord. Le choix est mémorisé dans cet onglet.",
+    "J’ai au moins 18 ans et j’accepte cette analyse facultative.",
+    "Autoriser l’analyse",
+    "Continuer sans analyse",
+    "Retirer mon accord",
+    "Analyse active à partir de l’accord. Aucune action antérieure ajoutée.",
+    "Analyse désactivée. Le jeu et le téléchargement restent disponibles."
+  ],
+  "es": [
+    "Análisis opcional",
+    "Tras aceptar, Google Analytics mide aperturas, inicios, finales y clics a Google Play. Google recibe datos de uso/dispositivo y tu IP, y usa cookies analíticas (hasta 2 horas). Sin personalización publicitaria. Puedes jugar sin aceptar. La elección se recuerda en esta pestaña.",
+    "Tengo 18 años o más y acepto este análisis opcional.",
+    "Permitir análisis",
+    "Continuar sin análisis",
+    "Retirar consentimiento",
+    "Análisis desde el consentimiento. No se añaden acciones anteriores.",
+    "Análisis desactivado. El juego y la descarga funcionan normalmente."
+  ],
+  "it": [
+    "Analisi facoltativa",
+    "Dopo il consenso Google Analytics misura aperture, inizi, conclusioni e clic verso Google Play. Google riceve dati di utilizzo/dispositivo e indirizzo IP e usa cookie analitici (massimo 2 ore). Nessuna personalizzazione pubblicitaria. Puoi giocare senza accettare. La scelta è ricordata in questa scheda.",
+    "Ho almeno 18 anni e accetto questa analisi facoltativa.",
+    "Consenti analisi",
+    "Continua senza analisi",
+    "Revoca consenso",
+    "Analisi dal consenso. Le azioni precedenti non vengono aggiunte.",
+    "Analisi disattivata. Gioco e download funzionano normalmente."
+  ],
+  "pt": [
+    "Análise opcional",
+    "Após consentimento, o Google Analytics mede aberturas, inícios, conclusões e cliques para o Google Play. O Google recebe dados de utilização/dispositivo e o endereço IP e usa cookies analíticos (até 2 horas). Sem personalização de anúncios. Podes jogar sem aceitar. A escolha é guardada neste separador.",
+    "Tenho pelo menos 18 anos e aceito esta análise opcional.",
+    "Permitir análise",
+    "Continuar sem análise",
+    "Retirar consentimento",
+    "Análise a partir do consentimento. Não são adicionadas ações anteriores.",
+    "Análise desligada. O jogo e a transferência funcionam normalmente."
+  ]
+}

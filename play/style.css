@@ -2,3 +2,5 @@
 
 /* Keep the next action reachable on small screens. */
 @media(max-width:720px){body{padding-bottom:90px}.hero{padding:12px 0}.hero h1{font-size:34px;margin:10px 0}.hero>p:last-child{font-size:16px}.controls{margin:0 0 14px}#download{position:fixed;bottom:12px;left:16px;right:16px;z-index:20;box-shadow:0 3px 20px #10291e40;max-height:76px;overflow:auto;padding-bottom:max(13px,env(safe-area-inset-bottom))}}
+
+.analytics-controls summary{cursor:pointer;font-weight:700}.analytics-controls label{display:block;margin:16px 0}.analytics-controls input{width:20px;height:20px;vertical-align:middle}.analytics-controls button{background:#fffdf5;color:#203a33}.analytics-controls p{font-size:14px}
