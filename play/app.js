@@ -1,6 +1,6 @@
 import {setupAnalytics} from './analytics.js';
 import {colorCount,launch,stepBubble,seedFrom,random,shuffled} from './rules.js';
-const [dictionary,questions]=await Promise.all([fetch('./i18n.json').then(r=>r.json()),fetch('./questions.json').then(r=>r.json())]);
+const [dictionary,questions]=await Promise.all([fetch('./i18n.json?v=20261113-loss').then(r=>r.json()),fetch('./questions.json').then(r=>r.json())]);
 const $=id=>document.getElementById(id),params=new URLSearchParams(location.search);let lang=dictionary[params.get('lang')]?params.get('lang'):'en',game=['bubble','pulz','mindli'].includes(params.get('game'))?params.get('game'):'bubble';
 const names={bubble:'Bubble Out!',pulz:'PULZ',mindli:'MINDli'},packages={bubble:'com.bubbleout.game',pulz:'com.pulz.game',mindli:'sk.sante.mindli.geoqa6040x'},colors=['#2ed6ed','#f23ca9','#ffc950','#4cda99','#9b73fc','#fc7770','#478bff'];
 const entrySource=['youtube','tiktok','facebook','instagram','reddit','forum'].includes(params.get('src'))?params.get('src'):'direct_or_unknown',creative=['success','howto','bounce'].includes(params.get('creative'))?params.get('creative'):'unspecified';
