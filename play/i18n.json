@@ -35,7 +35,9 @@
     "copy": "Copy challenge link",
     "pause": "Pause",
     "resume": "Resume",
-    "sharePrompt": "Share this result?"
+    "sharePrompt": "Share this result?",
+    "yourCore": "Your core",
+    "incomingPulse": "Incoming pulse"
   },
   "sk": {
     "tag": "NAJPRV SI ZAHRAJ. POTOM SA ROZHODNI.",
@@ -73,7 +75,9 @@
     "copy": "Kopírovať výzvu",
     "pause": "Pozastaviť",
     "resume": "Pokračovať",
-    "sharePrompt": "Zdieľať výsledok?"
+    "sharePrompt": "Zdieľať výsledok?",
+    "yourCore": "Tvoje jadro",
+    "incomingPulse": "Prichádzajúci pulz"
   },
   "cs": {
     "tag": "NEJDŘÍV SI ZAHRAJ. PAK SE ROZHODNI.",
@@ -111,7 +115,9 @@
     "copy": "Kopírovat výzvu",
     "pause": "Pozastavit",
     "resume": "Pokračovat",
-    "sharePrompt": "Sdílet výsledek?"
+    "sharePrompt": "Sdílet výsledek?",
+    "yourCore": "Tvoje jádro",
+    "incomingPulse": "Příchozí pulz"
   },
   "de": {
     "tag": "ERST SPIELEN. DANN ENTSCHEIDEN.",
@@ -149,7 +155,9 @@
     "copy": "Challenge-Link kopieren",
     "pause": "Pause",
     "resume": "Fortsetzen",
-    "sharePrompt": "Ergebnis teilen?"
+    "sharePrompt": "Ergebnis teilen?",
+    "yourCore": "Dein Kern",
+    "incomingPulse": "Ankommender Puls"
   },
   "ja": {
     "tag": "まず遊んで、気に入ったらダウンロード。",
@@ -187,7 +195,9 @@
     "copy": "挑戦リンクをコピー",
     "pause": "一時停止",
     "resume": "再開",
-    "sharePrompt": "結果を共有しますか？"
+    "sharePrompt": "結果を共有しますか？",
+    "yourCore": "自分のコア",
+    "incomingPulse": "到着したパルス"
   },
   "tr": {
     "tag": "ÖNCE OYNA. SEVERSEN İNDİR.",
@@ -225,7 +235,9 @@
     "copy": "Meydan okuma bağlantısını kopyala",
     "pause": "Duraklat",
     "resume": "Devam et",
-    "sharePrompt": "Sonucu paylaş?"
+    "sharePrompt": "Sonucu paylaş?",
+    "yourCore": "Senin çekirdeğin",
+    "incomingPulse": "Gelen atım"
   },
   "fr": {
     "tag": "JOUE D’ABORD. DÉCIDE ENSUITE.",
@@ -263,7 +275,9 @@
     "copy": "Copier le lien du défi",
     "pause": "Pause",
     "resume": "Reprendre",
-    "sharePrompt": "Partager ce résultat ?"
+    "sharePrompt": "Partager ce résultat ?",
+    "yourCore": "Votre noyau",
+    "incomingPulse": "Impulsion reçue"
   },
   "es": {
     "tag": "PRIMERO JUEGA. DESPUÉS DECIDE.",
@@ -301,7 +315,9 @@
     "copy": "Copiar enlace del reto",
     "pause": "Pausa",
     "resume": "Continuar",
-    "sharePrompt": "¿Compartir resultado?"
+    "sharePrompt": "¿Compartir resultado?",
+    "yourCore": "Tu núcleo",
+    "incomingPulse": "Pulso entrante"
   },
   "it": {
     "tag": "PRIMA GIOCA. POI DECIDI.",
@@ -339,7 +355,9 @@
     "copy": "Copia il link della sfida",
     "pause": "Pausa",
     "resume": "Riprendi",
-    "sharePrompt": "Condividere il risultato?"
+    "sharePrompt": "Condividere il risultato?",
+    "yourCore": "Il tuo nucleo",
+    "incomingPulse": "Impulso in arrivo"
   },
   "pt": {
     "tag": "PRIMEIRO JOGA. DEPOIS DECIDE.",
@@ -377,7 +395,9 @@
     "copy": "Copiar link do desafio",
     "pause": "Pausa",
     "resume": "Retomar",
-    "sharePrompt": "Partilhar resultado?"
+    "sharePrompt": "Partilhar resultado?",
+    "yourCore": "O teu núcleo",
+    "incomingPulse": "Pulso recebido"
   },
   "pl": {
     "tag": "NAJPIERW ZAGRAJ. POTEM ZDECYDUJ.",
@@ -415,7 +435,9 @@
     "copy": "Kopiuj link wyzwania",
     "pause": "Pauza",
     "resume": "Wznów",
-    "sharePrompt": "Udostępnić wynik?"
+    "sharePrompt": "Udostępnić wynik?",
+    "yourCore": "Twój rdzeń",
+    "incomingPulse": "Nadchodzący impuls"
   },
   "hu": {
     "tag": "ELŐBB JÁTSSZ. AZTÁN DÖNTS.",
@@ -453,6 +475,8 @@
     "copy": "Kihívás linkjének másolása",
     "pause": "Szünet",
     "resume": "Folytatás",
-    "sharePrompt": "Megosztod az eredményt?"
+    "sharePrompt": "Megosztod az eredményt?",
+    "yourCore": "A magod",
+    "incomingPulse": "Érkező impulzus"
   }
 }
