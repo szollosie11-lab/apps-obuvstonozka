@@ -1,0 +1,3 @@
+export function shiftDay(day,offset){const date=new Date(day+'T12:00:00Z');if(!Number.isFinite(date.getTime())||date.toISOString().slice(0,10)!==day)throw new Error('Invalid challenge date');date.setUTCDate(date.getUTCDate()+offset);return date.toISOString().slice(0,10);}
+export function pickGame(day){shiftDay(day,0);return Math.floor(Date.parse(day+'T12:00:00Z')/86400000)%2===0?'pulz':'mindli';}
+export function datedLink(base,day,lang,source){const u=new URL('https://apps.obuvstonozka.eu/play/');u.searchParams.set('game',pickGame(day));u.searchParams.set('day',day);u.searchParams.set('lang',lang);if(['youtube','tiktok','facebook','instagram','reddit','forum'].includes(source))u.searchParams.set('src',source);return u.pathname+u.search;}
