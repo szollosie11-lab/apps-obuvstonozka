@@ -1,0 +1,242 @@
+[
+  [
+    "Náš tím",
+    "V ktorom roku vznikol fiktívny Ateliér Orbit?",
+    [
+      "2012",
+      "2016",
+      "2020",
+      "2024"
+    ],
+    1,
+    "V úvodnej vizitke je rok založenia 2016."
+  ],
+  [
+    "Náš tím",
+    "Koľko ľudí má tím Orbit?",
+    [
+      "8",
+      "10",
+      "12",
+      "20"
+    ],
+    2,
+    "Fiktívny tím má 12 ľudí."
+  ],
+  [
+    "Náš tím",
+    "V ktorých mestách má Orbit svoje dva ateliéry?",
+    [
+      "Bratislava a Žilina",
+      "Košice a Prešov",
+      "Trnava a Nitra",
+      "Brno a Praha"
+    ],
+    0,
+    "Vymyslené pobočky sídlia v Bratislave a Žiline."
+  ],
+  [
+    "Náš tím",
+    "Ako sa volá nový projekt Orbitu?",
+    [
+      "VEGA",
+      "LUNA",
+      "NOVA",
+      "KOMÉTA"
+    ],
+    1,
+    "Projekt LUNA je súčasťou fiktívneho zadania."
+  ],
+  [
+    "Náš tím",
+    "Aká je hlavná farba značky Orbit?",
+    [
+      "Červená",
+      "Fialová",
+      "Modrá",
+      "Oranžová"
+    ],
+    3,
+    "Oranžovú nájdete aj vo vizuále tejto ukážky."
+  ],
+  [
+    "Náš tím",
+    "Čo tvorí Ateliér Orbit?",
+    [
+      "Nábytok",
+      "Interaktívne výstavy",
+      "Športové oblečenie",
+      "Kávovary"
+    ],
+    1,
+    "Orbit je fiktívne štúdio interaktívnych výstav."
+  ],
+  [
+    "Spoločná logika",
+    "Tri tímy majú po štyroch hráčoch. Koľko ľudí hrá?",
+    [
+      "7",
+      "10",
+      "12",
+      "16"
+    ],
+    2,
+    "Tri krát štyri je dvanásť."
+  ],
+  [
+    "Spoločná logika",
+    "Porada začína o 14:10 a trvá 35 minút. Kedy končí?",
+    [
+      "14:35",
+      "14:40",
+      "14:45",
+      "14:50"
+    ],
+    2,
+    "K 14:10 pripočítame 35 minút."
+  ],
+  [
+    "Spoločná logika",
+    "Ktoré číslo pokračuje v rade 3, 6, 12, 24?",
+    [
+      "27",
+      "30",
+      "36",
+      "48"
+    ],
+    3,
+    "Každý ďalší člen je dvojnásobkom predchádzajúceho."
+  ],
+  [
+    "Spoločná logika",
+    "Z 20 pozvánok prišlo 15 potvrdení. Koľko percent to je?",
+    [
+      "60 %",
+      "65 %",
+      "75 %",
+      "80 %"
+    ],
+    2,
+    "15 delené 20 je 0,75, teda 75 %."
+  ],
+  [
+    "Spoločná logika",
+    "Ktorý predmet do skupiny nepatrí?",
+    [
+      "Kruh",
+      "Trojuholník",
+      "Štvorec",
+      "Kocka"
+    ],
+    3,
+    "Kocka je priestorové teleso; ostatné sú rovinné útvary."
+  ],
+  [
+    "Spoločná logika",
+    "Adam stojí pred Beátou. Beáta pred Cyrilom. Kto z nich stojí posledný?",
+    [
+      "Adam",
+      "Beáta",
+      "Cyril",
+      "Nedá sa určiť"
+    ],
+    2,
+    "Poradie týchto troch je Adam, Beáta, Cyril."
+  ],
+  [
+    "Svet okolo nás",
+    "Ktorá planéta je najbližšie k Slnku?",
+    [
+      "Venuša",
+      "Merkúr",
+      "Zem",
+      "Mars"
+    ],
+    1,
+    "Najbližšie k Slnku obieha Merkúr."
+  ],
+  [
+    "Svet okolo nás",
+    "Ktoré mesto je hlavným mestom Portugalska?",
+    [
+      "Porto",
+      "Madrid",
+      "Lisabon",
+      "Faro"
+    ],
+    2,
+    "Hlavným mestom Portugalska je Lisabon."
+  ],
+  [
+    "Svet okolo nás",
+    "Ktorý chemický prvok má značku O?",
+    [
+      "Zlato",
+      "Kyslík",
+      "Osmium",
+      "Olovo"
+    ],
+    1,
+    "O je značka kyslíka; osmium má značku Os."
+  ],
+  [
+    "Svet okolo nás",
+    "Koľko strún má štandardná gitara?",
+    [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    2,
+    "Bežná štandardná gitara má šesť strún."
+  ],
+  [
+    "Svet okolo nás",
+    "Ktorý z týchto jazykov sa zapisuje aj znakmi kandži?",
+    [
+      "Turečtina",
+      "Japončina",
+      "Nemčina",
+      "Taliančina"
+    ],
+    1,
+    "Japončina používa kandži spolu s hiraganou a katakanou."
+  ],
+  [
+    "Svet okolo nás",
+    "Ktorý oceán je najväčší?",
+    [
+      "Atlantický",
+      "Indický",
+      "Severný ľadový",
+      "Tichý"
+    ],
+    3,
+    "Tichý oceán má najväčšiu rozlohu."
+  ],
+  [
+    "Svet okolo nás",
+    "Koľko minút majú dve a pol hodiny?",
+    [
+      "120",
+      "130",
+      "150",
+      "180"
+    ],
+    2,
+    "Dve hodiny sú 120 minút a pol hodiny je ďalších 30."
+  ],
+  [
+    "Finále",
+    "Čo má pri tímovom kvíze najväčšiu hodnotu pre organizátora?",
+    [
+      "Vymyslené výsledky",
+      "Zrozumiteľné pravidlá a spoločný zážitok",
+      "Čo najviac komplikácií",
+      "Povinný nákup každého hráča"
+    ],
+    1,
+    "Táto odľahčená záverečná otázka ukazuje priestor pre vlastný odkaz organizátora."
+  ]
+]
