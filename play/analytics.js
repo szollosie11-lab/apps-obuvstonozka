@@ -2,7 +2,7 @@
 export function createTracker(env, context) {
   const id='G-CK4WVT66VV', qa=new URL(env.location.href).searchParams.get('qa')==='1';
   let allowed=false,epoch=0; const log=[];
-  const permitted=new Set(['preview_observed','preview_start','preview_complete','store_click']);
+  const permitted=new Set(['preview_observed','preview_start','preview_complete','store_click','challenge_share']);
   function event(name,extra={}) {
     if(!allowed||!permitted.has(name))return false;
     const c=context(), p={game:c.game,ui_language:c.lang,entry_source:c.source,creative:c.creative,...extra};

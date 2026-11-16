@@ -1,0 +1,2 @@
+import {shiftDay} from './return-rules.js';
+export function challengeLink(base,{game,lang,day,target}){if(!['pulz','bubble','mindli'].includes(game)||!/^[a-z]{2}$/.test(lang))throw new Error('Invalid challenge');shiftDay(day,0);const u=new URL('/play/',base);u.searchParams.set('lang',lang);u.searchParams.set('game',game);u.searchParams.set('day',day);u.searchParams.set('src','friend');u.searchParams.set('creative','score');if(Number.isFinite(target)&&target>=0&&target<=1000)u.searchParams.set('target',String(target));return u.href;}
