@@ -1,0 +1,189 @@
+{
+  "mindli": {
+    "images": [
+      "media/mindli/screen-1.webp",
+      "media/mindli/screen-2.webp",
+      "media/mindli/screen-3.webp",
+      "media/mindli/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=sk.sante.mindli.geoqa6040x&hl=en",
+    "video": "play/clips/mindli-en.mp4",
+    "poster": "media/mindli/video-poster.jpg"
+  },
+  "pulz": {
+    "images": [
+      "media/pulz/screen-1.webp",
+      "media/pulz/screen-2.webp",
+      "media/pulz/screen-3.webp",
+      "media/pulz/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=com.pulz.game&hl=en",
+    "video": "pulz/gameplay.mp4",
+    "poster": "media/pulz/video-poster.jpg"
+  },
+  "shift": {
+    "images": [
+      "media/shift/screen-1.webp",
+      "media/shift/screen-2.webp",
+      "media/shift/screen-3.webp",
+      "media/shift/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=com.shiftreactor.game&hl=en",
+    "video": "media/shift/gameplay.mp4",
+    "poster": "media/shift/video-poster.jpg"
+  },
+  "tilevault": {
+    "images": [
+      "media/tilevault/screen-1.webp",
+      "media/tilevault/screen-2.webp",
+      "media/tilevault/screen-3.webp",
+      "media/tilevault/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=sk.sante.tilevault&hl=en",
+    "video": "media/tilevault/gameplay.mp4",
+    "poster": "media/tilevault/video-poster.jpg"
+  },
+  "minecore": {
+    "images": [
+      "media/minecore/screen-1.webp",
+      "media/minecore/screen-2.webp",
+      "media/minecore/screen-3.webp",
+      "media/minecore/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=sk.sante.minecore&hl=en",
+    "video": "media/minecore/gameplay.mp4",
+    "poster": "media/minecore/video-poster.jpg"
+  },
+  "bubble": {
+    "images": [
+      "media/bubble/screen-1.webp",
+      "media/bubble/screen-2.webp",
+      "media/bubble/screen-3.webp",
+      "media/bubble/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=com.bubbleout.game&hl=en",
+    "video": "play/clips/bubble-en.mp4",
+    "poster": "media/bubble/video-poster.jpg"
+  },
+  "grid": {
+    "images": [
+      "media/grid/screen-1.webp",
+      "media/grid/screen-2.webp",
+      "media/grid/screen-3.webp",
+      "media/grid/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=sk.sante.gridarena&hl=en",
+    "video": "media/grid/gameplay.mp4",
+    "poster": "media/grid/video-poster.jpg"
+  },
+  "foldspace": {
+    "images": [
+      "media/foldspace/screen-1.webp",
+      "media/foldspace/screen-2.webp",
+      "media/foldspace/screen-3.webp",
+      "media/foldspace/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=com.foldspace.game&hl=en"
+  },
+  "party": {
+    "images": [
+      "media/party/screen-1.webp",
+      "media/party/screen-2.webp",
+      "media/party/screen-3.webp",
+      "media/party/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=sk.sante.mindliparty&hl=en"
+  },
+  "hopla": {
+    "images": [
+      "media/hopla/screen-1.webp",
+      "media/hopla/screen-2.webp",
+      "media/hopla/screen-3.webp",
+      "media/hopla/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=com.tory.hopla&hl=en"
+  },
+  "embertrail": {
+    "images": [
+      "media/embertrail/screen-1.webp",
+      "media/embertrail/screen-2.webp",
+      "media/embertrail/screen-3.webp",
+      "media/embertrail/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=com.embertrail.game&hl=en"
+  },
+  "pucik": {
+    "images": [
+      "media/pucik/screen-1.webp",
+      "media/pucik/screen-2.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=com.greenjoy.pucik&hl=en"
+  },
+  "prism-picnic": {
+    "images": [
+      "media/prism-picnic/screen-1.webp",
+      "media/prism-picnic/screen-2.webp",
+      "media/prism-picnic/screen-3.webp",
+      "media/prism-picnic/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=sk.tory.prismpicnic&hl=en"
+  },
+  "prism-sands": {
+    "images": [
+      "media/prism-sands/screen-1.webp",
+      "media/prism-sands/screen-2.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=sk.piesoklab.game&hl=en"
+  },
+  "bloom-bop": {
+    "images": [
+      "media/bloom-bop/screen-1.webp",
+      "media/bloom-bop/screen-2.webp",
+      "media/bloom-bop/screen-3.webp",
+      "media/bloom-bop/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=sk.sante.bloombop&hl=en"
+  },
+  "one-more-floor": {
+    "images": [
+      "media/one-more-floor/screen-1.webp",
+      "media/one-more-floor/screen-2.webp",
+      "media/one-more-floor/screen-3.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=sk.sante.onemorefloor.prototype&hl=en"
+  },
+  "spark-garden": {
+    "images": [
+      "media/spark-garden/screen-1.webp",
+      "media/spark-garden/screen-2.webp",
+      "media/spark-garden/screen-3.webp",
+      "media/spark-garden/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=sk.sante.sparkgarden&hl=en"
+  },
+  "nexus": {
+    "images": [
+      "media/nexus/screen-1.webp",
+      "media/nexus/screen-2.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=sk.sante.nexus&hl=en"
+  },
+  "synapsa": {
+    "images": [
+      "media/synapsa/screen-1.webp",
+      "media/synapsa/screen-2.webp",
+      "media/synapsa/screen-3.webp",
+      "media/synapsa/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=sk.sante.synapsa.mobile023&hl=en"
+  },
+  "dispatch": {
+    "images": [
+      "media/dispatch/screen-1.webp",
+      "media/dispatch/screen-2.webp",
+      "media/dispatch/screen-3.webp",
+      "media/dispatch/screen-4.webp"
+    ],
+    "source": "https://play.google.com/store/apps/details?id=sk.sante.dispatch&hl=en"
+  }
+}
