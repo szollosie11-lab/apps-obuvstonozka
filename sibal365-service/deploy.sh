@@ -17,3 +17,5 @@ gcloud storage buckets update "gs://$BUCKET" --soft-delete-duration=0 --lifecycl
 gcloud storage buckets add-iam-policy-binding "gs://$BUCKET" --member="serviceAccount:$SA" --role=roles/storage.objectAdmin --project="$PROJECT" --quiet
 gcloud run deploy "$SERVICE" --project="$PROJECT" --region="$REGION" --source=. --service-account="$SA" --set-env-vars="SIBAL_BUCKET=$BUCKET" --allow-unauthenticated --min-instances=0 --max-instances=1 --concurrency=8 --cpu=1 --memory=256Mi --timeout=10 --no-cpu-boost --cpu-throttling --labels=app=sibal365,cost-profile=lean --quiet
 gcloud run services describe "$SERVICE" --project="$PROJECT" --region="$REGION" --format='yaml(status.url,spec.template.metadata.annotations)'
+URL=$(gcloud run services describe "$SERVICE" --project="$PROJECT" --region="$REGION" --format='value(status.url)')
+node smoke-live.mjs "$URL"
