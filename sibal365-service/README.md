@@ -1,0 +1,1 @@
+SIBAL365 challenge service. Isolated from existing game services. Deploy only the dedicated service described in deploy.sh; application files remain in the development workspace. Photos and private notes are never uploaded.
