@@ -17,7 +17,7 @@ export function createTracker(env, context) {
       env.gtag('consent','default',{analytics_storage:'granted',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});
       env.gtag('set','ads_data_redaction',true);env.gtag('set','url_passthrough',false);
       env.gtag('js',new Date());
-      env.gtag('config',id,{send_page_view:false,allow_google_signals:false,allow_ad_personalization_signals:false,cookie_domain:'apps.obuvstonozka.eu',cookie_expires:7200,cookie_update:false,page_location:env.location.origin+'/play/',page_referrer:'',page_title:'Play First preview'});
+      env.gtag('config',id,{send_page_view:false,allow_google_signals:false,allow_ad_personalization_signals:false,cookie_domain:env.location.hostname,cookie_expires:7200,cookie_update:false,page_location:env.location.origin+'/play/',page_referrer:'',page_title:'Play First preview'});
       const script=env.document.createElement('script');script.async=true;script.src='https://www.googletagmanager.com/gtag/js?id='+id;env.document.head.append(script);
     }
     event('preview_observed');
